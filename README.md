@@ -119,8 +119,11 @@ allprojects {
 
 ```java
 dependencies {
-	compile 'com.github.SilenceDut:TaskScheduler:1.0.1'
-}
+  compile 'com.github.supertaohaili:TaskScheduler:1.0.0'}
 ```
 
 
+
+### Known Issues
+If you have any questions/queries/Bugs/Hugs please mail @
+taohailili@gmail.com
